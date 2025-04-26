@@ -45,15 +45,8 @@ View your results and decide whether to try again
 Results Display
 The application presents results in a clean box format:
 
-╔════════════════════════════╗
-║       TYPING RESULTS      ║
-╠══════════════╦═══════════╣
-║ Time: 12.34  ║ seconds   ║
-╠══════════════╬═══════════╣
-║ Speed: 45.67 ║ WPM       ║
-╠══════════════╬═══════════╣
-║ Accuracy: 98.76% ║           ║
-╚══════════════╩═══════════╝
+![image](https://github.com/user-attachments/assets/373291a6-1285-46fc-b10c-1201f3c66ccc)
+
 Performance Feedback
 The application provides motivational feedback based on your performance:
 
